@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [link](link)
-- Live Site URL: [link](link)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/component-using-htmlcss-and-figma-IpMUSrO7r9)
+- Live Site URL: [link](https://single-price-grid-component-beige-alpha.vercel.app/)
 
 ## My process
 
